@@ -1,0 +1,89 @@
+body{
+    background-color: #be8869;
+}
+
+
+.countainer{
+    display: flex;
+    flex-direction: column;
+    margin-top:9%;
+    margin-left: 40%;
+    background-color: #3d2521;
+    width:230px;
+    padding:30px;
+    border:none;
+    outline:none;
+    gap:8px;
+    border-radius: 25px;
+    align-items: center;
+}
+
+.main-input{
+    border-radius: 10px;
+    height: 45px;
+    width: 185px;
+    border:none;
+    outline: none;
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.countainer button{
+    border-radius: 50%;
+    padding: 2px;
+    width: 45px;
+    height: 45px;
+    border: none;
+    outline:none;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    font-size: 18px;
+    cursor:pointer;
+}
+.countainer button:hover{
+    background-color: #5f4540;
+    transition: 0.5;
+}
+
+.section6 .zero{
+    border-radius: 40%;
+    height: 50px;
+}
+
+.section1 button{
+    background-color: #a5775e;
+}
+.section1 .divide{
+    background-color: #e99d72;
+}
+.section2 button{
+    background-color: #e9a993;
+}
+.section2 .star{
+    background-color: #e99d72;
+}
+.section3 button{
+    background-color:#e9a993 ;
+}
+.section3 .doot{
+    background-color: #e99d72;
+}
+.section4 button{
+    background-color:#e9a993  ;
+}
+.section4 .cal{
+    background-color: #e99d72;
+}
+.section5 button{
+    background-color:#e9a993  ;
+}
+
+.section5 .dooot{
+    background-color: #e99d72;
+}
+.section6 button{
+    background-color:#e9a993  ;
+}
+.section6 .equal{
+    background-color: #e99d72;
+}
